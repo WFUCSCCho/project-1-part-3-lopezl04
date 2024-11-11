@@ -182,3 +182,7 @@ vmd -dispdev text -e dihe.tcl
 If you set up and ran the dihe.tcl file correctly, there will be a new file that results: dihe.dat. In the file, the first column is time (in units of picoseconds) and the next 3 columns correspond to the individual torsional angles for the tetrads you identified.
 
 __You will turn in images of 2 graphs corresponding to the base-to-base distances and torsional angles.__
+<img width="581" alt="Screenshot 2024-11-10 at 9 07 50 PM" src="https://github.com/user-attachments/assets/986f1d28-a5f5-4579-ac69-b3071b0a4022">
+![Image 11-10-24 at 9 01 PM](https://github.com/user-attachments/assets/a7338bf1-8acf-4eba-a530-77ac79d42333)
+
+
